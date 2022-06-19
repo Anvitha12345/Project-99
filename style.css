@@ -1,0 +1,56 @@
+.start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    
+}
+body{
+
+
+   background-image: url(1_DnsYj47cJCEDZTauIVF3Ug.png);
+   background-repeat: no-repeat;
+}
+
+.copy_right_footer{
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+#result1{
+
+    box-shadow: 0 6px 8px rgba(2,2,2,0.2);
+}
+#result2{
+
+    box-shadow: 0 6px 8px rgba(2,2,2,0.2);
+}
+#result3{
+
+    box-shadow: 0 6px 8px rgba(2,2,2,0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
+.header{
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Mali', cursive;
+font-family: 'Satisfy', cursive;
+}
